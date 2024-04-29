@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYBAMAAAASWSDLAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAbUExURUdwTP/S0v/R0f/Q0P/R0f/R0f/Q0P/Q0P/Q0ORl+tsAAAAIdFJOUwA/fcBMlizSztWKTwAAAGVJREFUGNNjYACCiI6OVgYoYO0AggAoJ6NVUDCiDcwUFLRoERT0aBYUZGBg6oADBQYWBMeBgYGjEaJTooEBk6PswGIE51goMDUPLMcpgU0Fm0ObBMFAA8Rhh/mtAMhhq4Cw2xMYAISAOR2rEDjuAAAAAElFTkSuQmCC"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/white-trash-alt.png
+// module id = n/vW
+// module chunks = 57

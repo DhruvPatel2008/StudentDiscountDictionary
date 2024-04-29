@@ -1,0 +1,8 @@
+module.exports = {"fr":{"code":"en_CA","title_short":"en","title_medium":"English","title_long":"Canadian (English)"},"en":{"code":"fr_CA","title_short":"fr","title_medium":"Français","title_long":"Canadien (Français)"}}
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/localized/ca/i18n/language.json
+// module id = QZHJ
+// module chunks = 57

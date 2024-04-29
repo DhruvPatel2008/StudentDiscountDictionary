@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALBAMAAABbgmoVAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAnUExURUdwTGhDuGlEumlDuGlCuGtFvGdCvGpDuGlDuW1IwmtEuGpDuWtDuDNEOzIAAAANdFJOUwDWXqjpJTa9chWOgVNb7hTOAAAAQUlEQVQI12Ng2BXA2cDAwFzlwCbAwMCY4AqiuMUFQBTDdgYmTyClzKBoMgFEFbEfAFGNSwJAFIcrWA6sMogBaAoAlrUJ7faH66QAAAAASUVORK5CYII="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/img/3.png
+// module id = Ythl
+// module chunks = 57

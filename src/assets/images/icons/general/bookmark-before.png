@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAsBAMAAAD/fQfGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAkUExURUdwTP///////////////////////////////////////////xR6XWcAAAALdFJOUwDA7YpOEKw4aNgmqqep5AAAAK1JREFUKM9jYMACWIR2IwFFB6CQ9W4UsBmoaDcacGBgRBcSYGBCF1Jg4N69e6MgHEjv3r0BJLQBYT33qNAACLEGYAg1aaALee7ePQVVqBAUqeLIQssgEZ2FEAqGRb4pTGizNkxokzVUCAy2ZUMZcKGNBezSqEI7gemRZTay0KYGkDs5tBFCm0whPgzWhguZwnwdDBPKQoTEMoiQOHIuKAQJTUHNGZ4bGDjQc0sDAOzRCxXHQooWAAAAAElFTkSuQmCC"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/bookmark-before.png
+// module id = DbDO
+// module chunks = 57

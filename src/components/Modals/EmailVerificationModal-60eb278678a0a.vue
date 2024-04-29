@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('Modal',{attrs:{"show":_vm.show,"inverted":false,"newMobileDesign":_vm.contestVariant,"containerPadding":"40px 0 0","optimumWidth":_vm.contestVariant ? '500px' : '390px'},on:{"close":function($event){return _vm.clickClose()}}},[_c('div',{staticClass:"inner-container"},[_c('h1',{staticClass:"title",class:{contest: _vm.contestVariant}},[_vm._v(_vm._s(_vm.$t((_vm.variant + ".title"))))]),_vm._v(" "),_c('p',{staticClass:"description",class:{contest: _vm.contestVariant},domProps:{"innerHTML":_vm._s(_vm.$t((_vm.variant + ".description")))}}),_vm._v(" "),_c('div',{staticClass:"form-button-container",on:{"click":function($event){return _vm.clickClose(_vm.verifyWarning)}}},[(_vm.verifyWarning)?_c('button',{staticClass:"spc-button-v2 purple btn"},[_vm._v(_vm._s(_vm.$t((_vm.variant + ".btn-txt"))))]):_c('button',{staticClass:"spc-button-v2 purple btn",class:{'red-btn': _vm.contestVariant}},[_vm._v(_vm._s(_vm.$t('btn-txt')))])]),_vm._v(" "),(!_vm.verifyWarning && _vm.variant !== 'error')?_c('div',{staticClass:"form-button-container"},[_c('a',{staticClass:"resend-link",class:{ resendDisable: (_vm.resendDisabled || _vm.isRateLimitExceeds), contestResend: _vm.contestVariant },on:{"click":function($event){return _vm.reSendVerificationEmail()}}},[_vm._v("\n        "+_vm._s(_vm.$t('resend-btn-txt'))+"\n      ")]),_vm._v(" "),(_vm.isFirebaseError)?_c('div',{staticClass:"resend-after"},[_vm._v(" "+_vm._s(_vm.$t('error-text-firebase'))+" ")]):(_vm.resendDisabled && _vm.isTimerRunning)?_c('div',{staticClass:"resend-after"},[_vm._v(" "+_vm._s(_vm.$t('resend-after-txt') + _vm.timeRemaining)+"s")]):(_vm.isRateLimitExceeds)?_c('div',{staticClass:"resend-after"},[_vm._v(" "+_vm._s(_vm.$t('max-resend-limit')))]):_vm._e()]):_vm._e()])])}
+var staticRenderFns = []
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-0036da58","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/components/Modals/EmailVerificationModal.vue
+// module id = null
+// module chunks = 

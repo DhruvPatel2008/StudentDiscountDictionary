@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Im01LjIyNiAxMy4xOTYgOS41NjcgOS41NjZjLjY2LjY2MiAxLjczLjY2MiAyLjM4NCAwbDEuNTktMS41OWExLjY4MSAxLjY4MSAwIDAgMCAwLTIuMzg0bC02Ljc4MS02Ljc4MSA2Ljc4LTYuNzhhMS42ODEgMS42ODEgMCAwIDAgMC0yLjM4NmwtMS41ODItMS42MDNhMS42ODEgMS42ODEgMCAwIDAtMi4zODQgMGwtOS41NjcgOS41NjZhMS42ODMgMS42ODMgMCAwIDAtLjAwNyAyLjM5MnoiIGZpbGw9IiMwMDAiIGZpbGwtcnVsZT0ibm9uemVybyIvPgo8L3N2Zz4K"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/icon-solid-angle-left.svg
+// module id = rpUq
+// module chunks = 57

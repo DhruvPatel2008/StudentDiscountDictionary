@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4IiBoZWlnaHQ9IjE4IiB2aWV3Qm94PSIwIDAgOCAxOCI+CiAgICA8cGF0aCBmaWxsPSIjRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIDUuNjY3VjguNjNoMS44MTV2OC43MDNoMy40OXYtOC43NGgyLjQzNkw4IDUuNjY3SDUuMzA2VjRjMC0uNjkuMTM4LS45NjMuODA1LS45NjNIOFYwSDUuNTgzQzIuOTg2IDAgMS44MTUgMS4xNDMgMS44MTUgMy4zMzN2Mi4zMzRIMHoiLz4KPC9zdmc+Cg=="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/facebook-icon.svg
+// module id = CWzR
+// module chunks = 57

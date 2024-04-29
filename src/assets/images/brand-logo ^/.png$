@@ -1,0 +1,50 @@
+var map = {
+	"./adidas-logo-black.png": "ANsd",
+	"./aerie-logo-black.png": "iBUC",
+	"./americaneagle-logo-black.png": "+59Q",
+	"./applelogo-standard.png": "5BUl",
+	"./ardene-logo-black.png": "SwMA",
+	"./bathand-bodyworkslogo.png": "z7ZO",
+	"./booking-logo.png": "ChBO",
+	"./burgerking-logo.png": "nbnJ",
+	"./footlocker-logo.png": "7ZJK",
+	"./hbc/GoodAmerican.png": "9XHK",
+	"./hbc/buffalo.png": "QxFd",
+	"./hbc/levis.png": "n8qR",
+	"./hbc/madewell.png": "/MJT",
+	"./hbc/nike.png": "TYcN",
+	"./hbc/sorel.png": "WsGt",
+	"./hbc/stevemadden.png": "RwDL",
+	"./hm-logo.png": "eG1q",
+	"./hp-logo-blue.png": "k7KJ",
+	"./indigo-logo.png": "6Mlh",
+	"./kfc-logo-bw.png": "f/TW",
+	"./levi-logo.png": "bah4",
+	"./pizzahut-logoblack.png": "Xx7q",
+	"./roots-logo-black.png": "uPFg",
+	"./samsung-logo.png": "wkHS",
+	"./shein-logo.png": "EYq1",
+	"./tacobell-logo-bw.png": "4nSs"
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = "+CWQ";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/brand-logo ^\.\/.*\.png$
+// module id = +CWQ
+// module chunks = 0

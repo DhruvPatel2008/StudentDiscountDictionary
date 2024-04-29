@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.isBts && _vm.isStarted)?_c('div',{staticClass:"offer-tile-container",on:{"click":function($event){return _vm.$emit('select')}}},[_c('div',{staticClass:"background-image",style:(("background-image: url(" + _vm.previewImagePath + ");")),attrs:{"title":_vm.preview}},[_c('div',{staticClass:"overlay"}),_vm._v(" "),_c('p',[_vm._v(_vm._s(_vm.$t('coming_soon')))])]),_vm._v(" "),_c('div',{staticClass:"banner-info"},[_c('div',{staticClass:"title"},[_vm._v(_vm._s(_vm.previewTitle))]),_vm._v(" "),_c('div',{staticClass:"preview-description",domProps:{"innerHTML":_vm._s(_vm.marked(_vm.previewDescription))}})])]):_c('div',{staticClass:"offer-tile-container",on:{"click":function($event){return _vm.$emit('select')}}},[_c('div',{staticClass:"background-image",style:(("background-image: url(" + _vm.imagePath + ");")),attrs:{"title":_vm.alt}},[_c('div',{staticClass:"bubble-container"},[_c('div',{staticClass:"bubble"},[_vm._v("\n        "+_vm._s(_vm.timeLeft)+"\n      ")])]),_vm._v(" "),_c('div',{staticClass:"pill-container"},[_c('div',{staticClass:"pill"},[(_vm.isSPCPlus)?_c('img',{staticClass:"spc-pill-image",attrs:{"alt":_vm.alt,"src":require('@/assets/images/cibc/pill-spc-copy.png')}}):_vm._e()])])]),_vm._v(" "),_c('div',{staticClass:"banner-info"},[_c('div',{staticClass:"title"},[_vm._v(_vm._s(_vm.title))]),_vm._v(" "),_c('div',{staticClass:"description",domProps:{"innerHTML":_vm._s(_vm.description)}})])])}
+var staticRenderFns = []
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-47f7d202","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/components/BannerTile.vue
+// module id = null
+// module chunks = 

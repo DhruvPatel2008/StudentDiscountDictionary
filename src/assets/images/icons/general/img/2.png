@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALBAMAAABbgmoVAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAeUExURZaWlpKSkpKSkkdwTJ+fn5OTk5OTk5KSkpKSkpOTk005RFYAAAAKdFJOUy1d5wAQ06h2vYxjTie1AAAAQUlEQVQI12MwqWQ2KTZgMOtUMQg2YDBiVgBRlhHBIMq4wtlQBUiJGQslOYCoRgsBEFU6iQFEmSuA5cAqGY2BpgAASNoOmOB/OE0AAAAASUVORK5CYII="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/img/2.png
+// module id = KfWe
+// module chunks = 57

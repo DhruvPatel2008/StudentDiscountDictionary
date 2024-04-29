@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaBAMAAABFrWFOAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAVUExURUdwTAAAAAAAAAAAAAAAAAAAAAAAAO0EbHoAAAAHdFJOUwBNRBgJNiv0DSGpAAAAkklEQVQY002OTQ6CMBSEnyCuGRTXhiBrFA9QxQvgCdDg/a/gTH+Ik7SddF6/jtm/tt+mc8FNAI7eXiH1dDnPBihpM+DG5EC7QWtWYG/ae0W6tYHrjlNCT5ijI8VFm8UvqEt4pa+xjhaoUv5e8zyUkR6oOR/57fjxuB3wUmMnaJDz1aVaUOo8jL4qqiVRu0S1ZzI/0DMOr6UTQQ8AAAAASUVORK5CYII="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/signup-step-2-grey.png
+// module id = Bkxl
+// module chunks = 57

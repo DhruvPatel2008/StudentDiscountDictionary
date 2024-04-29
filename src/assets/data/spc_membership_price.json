@@ -1,0 +1,8 @@
+module.exports = {"price":11.99}
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/data/spc_membership_price.json
+// module id = FEaH
+// module chunks = 57

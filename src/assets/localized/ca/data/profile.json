@@ -1,0 +1,8 @@
+module.exports = {"genders":["male","female","non_binary","none"],"languages":["en","fr"],"school_types":["university","college","cegep","secondary","elementary","other"],"school_names":[]}
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/localized/ca/data/profile.json
+// module id = dgR5
+// module chunks = 57

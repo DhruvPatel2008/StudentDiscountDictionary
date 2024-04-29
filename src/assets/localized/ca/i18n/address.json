@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"labels":{"first_name":"First Name","last_name":"Last Name","company_name":"Company Name","address":"Address","suite_unit":"Suite/Unit","city":"City","province":"Province","postal_code":"Postal Code","phone_number":"Phone Number","optional":"optional"}},"fr":{"labels":{"first_name":"Prénom","last_name":"Nom de Famille","company_name":"Nom de la Compagnie","address":"Adresse","suite_unit":"Suite/Unité","city":"Ville","province":"Province","postal_code":"Code Postal","phone_number":"Numéro de Téléphone","optional":"optionnel"}}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/localized/ca/i18n/address.json
+// module id = fxna
+// module chunks = 0

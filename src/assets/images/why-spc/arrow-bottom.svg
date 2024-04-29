@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzUiIGhlaWdodD0iMTAiIHZpZXdCb3g9IjAgMCAzNSAxMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxnIHN0cm9rZT0iIzAwMCIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBvcGFjaXR5PSIuMjk4Ij4KICAgICAgICA8cGF0aCBkPSJNLjUzMSAxLjA0QzguODc1IDkuODU4IDIwLjQ3NiAxMC45MzcgMzEuMzIgNS44Ii8+CiAgICAgICAgPHBhdGggZD0iTTMwLjk0MyA5LjExNGMzLjQ5Mi03Ljk1IDUuMTE4LTYuOTEzLTIuMDQtNS40MTYiLz4KICAgIDwvZz4KPC9zdmc+Cg=="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/why-spc/arrow-bottom.svg
+// module id = 0qfd
+// module chunks = 0

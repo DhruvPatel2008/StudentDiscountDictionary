@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwAgMAAAAqbBEUAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURQAAAEdwTAAAALku1F4AAAADdFJOUz8AG18kr58AAACSSURBVCjPZZJLDoAgDAVfTFx4EO/jRuOSo3gJ7ysttDCRDZmEKf3pnI76fb0TlG2CZxlwSW/CLe0JRVoTHmkLqMqAqoxnVRkBqpKhTclP7+Y36EqDrjiE4hCKQygOoRikYpCKwRGKQQnlB3iGAAiNT5kOEkUJKI5loyFoFZrI9qLxGAmGxTFiwBg9loLrgkXy8wEXdJYbPmCjjAAAAABJRU5ErkJggg=="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/slider-arrow-left.png
+// module id = 7cWw
+// module chunks = 57

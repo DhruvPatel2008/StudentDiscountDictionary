@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgdmlld0JveD0iMCAwIDUwIDUwIj4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEgMSkiPgogICAgICAgIDxjaXJjbGUgY3g9IjI0IiBjeT0iMjQiIHI9IjIzLjQ3OCIgZmlsbD0iIzMyNjRFNiIgc3Ryb2tlPSIjMzI2NEU2Ii8+CiAgICAgICAgPHBhdGggc3Ryb2tlPSIjRkZGIiBkPSJNMTQuNjA5IDI0SDMzLjM5Ii8+CiAgICA8L2c+Cjwvc3ZnPgo="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/controller-remove-tap.svg
+// module id = LMKp
+// module chunks = 57

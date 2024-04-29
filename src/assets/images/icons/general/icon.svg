@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2IiBoZWlnaHQ9IjYiIHZpZXdCb3g9IjAgMCA2IDYiPgogICAgPHBhdGggZmlsbD0iIzAwMCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMi4zNjMgM0wuMTMyLjc3QS40NS40NSAwIDAgMSAuNzY5LjEzMUwzIDIuMzYyIDUuMjMuMTMzYS40NS40NSAwIDAgMSAuNjM4LjYzN0wzLjYzOCAzbDIuMjMgMi4yM2EuNDUuNDUgMCAwIDEtLjYzNy42MzhMMyAzLjYzOC43NyA1Ljg2N2EuNDUuNDUgMCAwIDEtLjYzOC0uNjM3TDIuMzYyIDN6Ii8+Cjwvc3ZnPgo="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/icon.svg
+// module id = VnB6
+// module chunks = 57

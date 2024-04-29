@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{class:{'restrict-banner-width': _vm.restrictBannerWidth}},[(_vm.isBannerAvailable && _vm.showBackOption)?_c('a',{staticClass:"back-nav",on:{"click":function($event){return _vm.$router.go(-1)}}},[_c('img',{staticClass:"icon",attrs:{"src":require('@/assets/images/icons/general/arrow-icon-white.svg'),"alt":_vm.$t('back')}}),_vm._v(" "),_c('span',{staticClass:"back-nav-text"},[_vm._v(_vm._s(_vm.$t('back')))])]):(_vm.showBackOption)?_c('a',{staticClass:"back-nav common-nav",on:{"click":function($event){return _vm.$router.go(-1)}}},[_c('img',{staticClass:"icon",attrs:{"src":require('@/assets/images/icons/general/arrow-icon-black.svg'),"alt":_vm.$t('back')}}),_vm._v(" "),_c('span',{staticClass:"back-nav-text black-text"},[_vm._v(_vm._s(_vm.$t('back')))])]):_vm._e(),_vm._v(" "),(_vm.isBannerAvailable)?_c('div',{class:{'clickable-pointer': _vm.is_clickable}},[_c('img',{staticClass:"show-desktop banner",attrs:{"src":_vm.getURL(_vm.banner['image_'+_vm.language]),"alt":(_vm.banner['alt_'+_vm.language]) ? _vm.banner['alt_'+_vm.language] : _vm.banner['text_'+_vm.language]},on:{"click":function($event){return _vm.clickedImage()}}}),_vm._v(" "),_c('img',{staticClass:"show-tablet banner",attrs:{"src":_vm.getURL(_vm.banner['image_tablet_'+_vm.language]),"alt":(_vm.banner['alt_'+_vm.language]) ? _vm.banner['alt_'+_vm.language] : _vm.banner['text_'+_vm.language]},on:{"click":function($event){return _vm.clickedImage()}}}),_vm._v(" "),_c('img',{staticClass:"show-mobile banner",attrs:{"src":_vm.getURL(_vm.banner['image_mobile_'+_vm.language]),"alt":(_vm.banner['alt_'+_vm.language]) ? _vm.banner['alt_'+_vm.language] : _vm.banner['text_'+_vm.language]},on:{"click":function($event){return _vm.clickedImage()}}})]):_vm._e()])}
+var staticRenderFns = []
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-1e7db099","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/components/Common/Banner.vue
+// module id = null
+// module chunks = 

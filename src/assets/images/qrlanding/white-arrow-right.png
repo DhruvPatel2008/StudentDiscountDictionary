@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAWBAMAAABeafMwAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAeUExURUdwTJeXl6Ojo5eXl5mZmZiYmJeXl5aWlpiYmJeXl9nFR+8AAAAJdFJOUwDWDhs2nfVYcpQVbxcAAABYSURBVBjTY2BABkwGDBjAUAhTTHGiAoYYs2QApkK3qZhiLJkNmIKV0zHFOKY5YApGpmCKsU40YJiJAYSwimHTS4Qd2NyCxc3Y/IYlDLCFFbYwxRb2kDgCADWmI4EVAsnOAAAAAElFTkSuQmCC"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/qrlanding/white-arrow-right.png
+// module id = 1Vwy
+// module chunks = 57

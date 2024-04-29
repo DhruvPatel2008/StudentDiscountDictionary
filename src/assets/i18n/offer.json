@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"offer":{"types":{"online":"Online","instore":"In-Store","spc_plus":"SPC+","lto":"Limited Time","new":"New","new_offer":"New Offer","new_partner":"New Partner","location":"Location","postal_code":"Postal Code","distance":"Distance"},"filter":{"title":"Filter","all":"All"},"sort":{"title":"Sort by","most_redeemed":"Most Redeemed","highest_discount":"Highest Discount","alphabetical":"Alphabetical","new":"Newest"},"sort_filter":{"title":"Sort & Filter","filter_heading":"Filters","apply":"APPLY","clear":"Clear"},"subcategory_filter":{"subcategories":"Subcategories"}},"trending":"Trending","coming_soon":"Coming Soon","invalid_postal_code":"Invalid postal code"},"fr":{"offer":{"types":{"online":"En ligne","instore":"En magasin","spc_plus":"SPC+","lto":"Durée limitée","new":"NEW","new_offer":"Nouvelle Offre","new_partner":"Nouveau Partenaire","location":"Emplacement","postal_code":"Code postal","distance":"Proximité"},"filter":{"title":"Filtre","all":"Tout"},"sort":{"title":"Trier par","most_redeemed":"Le plus profité","highest_discount":"Le plus élevé","alphabetical":"Alphabétique","new":"Le plus récent"},"sort_filter":{"title":"Trier et filtrer","filter_heading":"Filtres","apply":"APPLIQUER","clear":"Vider"},"subcategory_filter":{"subcategories":"Sous-catégories"}},"trending":"Tendance","coming_soon":"Bientôt","invalid_postal_code":"Code postal invalide"}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/i18n/offer.json
+// module id = CMMX
+// module chunks = 0

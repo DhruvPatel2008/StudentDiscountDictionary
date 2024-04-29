@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"contest":{"title":"Almost There!","description":"<b>We have sent you a verification email.</b> <br /><br />Please click the link in the email to verify your account and access our 12 days of giveaways!"},"success":{"title":"Almost there!","description":"We sent you a verification email.<br/><br/>Click the link in the email to verify your account."},"error":{"title":"Your Verification Link has Expired.","description":"Please go through the steps again in order to redeem your SPC benefits."},"warning":{"title":"Please Verify your Account","description":"Click on the link we sent to your email to finish your account setup."},"verify-warning":{"title":"You Have Already Verified your Email","description":" ","btn-txt":"LOG IN"},"btn-txt":"OK","resend-btn-txt":"Resend verification email","resend-after-txt":"Try Resend after ","error-text-firebase":"Too many attempts, please come back and try later.","max-resend-limit":"Maximum retry limit (3) exceeded for the day"},"fr":{"contest":{"title":"presque là","description":"<b>Nous vous avons envoyé un courriel de vérification.</b><br /><br />Veuillez cliquer sur le lien dans le courriel pour vérifier votre compte et accéder à nos 12 jours de cadeaux !"},"success":{"title":"Presque là!","description":"Nous vous avons envoyé un courriel de vérification.<br/><br/>Cliquez sur le lien dans le courriel pour vérifier votre compte"},"error":{"title":"Votre lien de vérification a expiré.","description":"Veuillez passer à nouveau l’étape de vérification pour profiter de vos avantages SPC."},"warning":{"title":"Veuillez vérifier votre compte","description":"Cliquez sur le lien que nous vous avons envoyé par e-mail pour terminer la configuration de votre compte."},"verify-warning":{"title":"Vous avez déjà vérifié votre e-mail","description":" ","btn-txt":"CONNEXION"},"btn-txt":"OK","resend-btn-txt":"Renvoyer le courriel de vérification","resend-after-txt":"Essayez de renvoyer plus tard ","error-text-firebase":"Trop d\u0027essais, veuillez revenir et réessayer plus tard.","max-resend-limit":"Limite maximale de tentatives (3) dépassée pour la journée"}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./node_modules/vue-loader/lib/selector.js?type=customBlocks&index=0!./src/components/Modals/EmailVerificationModal.vue
+// module id = ztao
+// module chunks = 0

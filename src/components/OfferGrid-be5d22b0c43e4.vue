@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[(!_vm.vaildOffers())?_c('SpinnerLoading',{staticClass:"loading-margin"}):_c('div',[(_vm.offers.length > 0)?_c('div',{ref:"offersDiv",staticClass:"offers-grid"},_vm._l((_vm.offers),function(offer){return _c('div',{key:offer.offer_id,ref:_vm.getRefs(_vm.partners[offer['partner_id']]['partner_name']),refInFor:true,staticClass:"offer-grid-item-container",class:{'mr-bt': _vm.enableMobileAppView}},[_c('OfferTile',{staticStyle:{"width":"100%"},attrs:{"isSpcPlusUser":_vm.isSpcPlusUser,"offer":offer,"partner":_vm.partners[offer['partner_id']],"offerID":offer.offer_id,"title":_vm.partners[offer['partner_id']]['partner_name'],"description":_vm.translatePropertyWithDefault(offer, 'title'),"iconPath":offer.has_image ? _vm.getURL(_vm.language === 'en' ? offer.optional_image_small_en : offer.optional_image_small_fr) : _vm.getURL(_vm.partners[offer['partner_id']][_vm.language === 'en' ? 'logo_web' : 'logo_web_fr']),"instore":!!offer.in_store,"online":!!offer.online,"section":_vm.source,"showFavourites":_vm.showFavourites,"fromGrid":true,"enableMobileAppView":_vm.enableMobileAppView,"enableScrollDelete":_vm.enableScrollDelete},on:{"reloadList":_vm.reloadList}})],1)}),0):_vm._t("default",[_c('div',{staticClass:"spc-center"},[_c('h2',[_vm._v(_vm._s(_vm.$t('search.results.empty.title')))]),_vm._v(" "),_c('p',[_vm._v(_vm._s(_vm.$t('search.results.empty.description')))])])]),_vm._v(" "),(_vm.dataLoading)?_c('SpinnerLoading',{staticClass:"loading-margin"}):_vm._e(),_vm._v(" "),(_vm.showDealsButton)?_c('div',{staticClass:"button-container"},[_c('router-link',{staticClass:"spc-button-v2 purple",attrs:{"to":"/deals","tag":"button"}},[_vm._v(_vm._s(_vm.$t('button.action')))])],1):_vm._e()],2)],1)}
+var staticRenderFns = []
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-062226c9","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/components/OfferGrid.vue
+// module id = null
+// module chunks = 

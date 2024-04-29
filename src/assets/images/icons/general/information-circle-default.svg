@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZD0iTTAgMGg0OHY0OEgweiIvPgogICAgICAgIDxwYXRoIHN0cm9rZT0iIzMyNjRFNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiIGQ9Ik0yOC41IDMzSDI3YTMgMyAwIDAgMS0zLTN2LTcuNWExLjUgMS41IDAgMCAwLTEuNS0xLjVIMjFNMjMuMjUgMTMuNWEuNzUuNzUgMCAxIDAgMCAxLjUuNzUuNzUgMCAwIDAgMC0xLjUiLz4KICAgICAgICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjI0IiByPSIyMi41IiBzdHJva2U9IiMzMjY0RTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgICA8L2c+Cjwvc3ZnPgo="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/information-circle-default.svg
+// module id = NbyV
+// module chunks = 57

@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAgBAMAAAARRx4IAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAeUExURf7+/qSkpP////r6+tra2vLy8rCwsOjo6Lm5ucvLyxKsqV0AAAABdFJOUy6cMNWpAAAAy0lEQVQY033RwQqCQBAG4HmFgRC9qtHdLOsYgp1zw7ouFHVNEeooFJ1DytdtVrbdiaA5LHyw4+z8gq9r3dEBoBU3B8YgwxvjUGLLGKObM25xFzEWXuV/mNRRIpKl6BmcEa/iItGtFOdI5ajDywGCB5pKAUZWbgkwtXxS78nIKYm21YuIjeFAUf5l891rP0UrAizs3Ja4QnYbYGaJd4CQcUAb2Um4/1nQL9gkYsiepbIyk9M+SRXWUepHUrAZdmLzclKd86SmPzAWKvY3Yj864lb89eUAAAAASUVORK5CYII="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/brand-logo/applelogo-standard.png
+// module id = 5BUl
+// module chunks = 0

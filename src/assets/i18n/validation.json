@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"validation":{"password":{"minLength":"A minimum of 8 characters","containsDigit":"At least one number","containsCapital":"At least one capital letter","containsLowercase":"At least one lowercase letter","pass":"We are all good!","fail":"Password requirements"}}},"fr":{"validation":{"password":{"minLength":"Un minimum de 8 caractères","containsDigit":"Insatisfait :Au moins un chiffre","containsCapital":"Au moins une lettre majuscule","containsLowercase":"Au moins une lettre minuscule","pass":"C\u0027est bon!","fail":"Exigences de mot de passe"}}}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/i18n/validation.json
+// module id = PFjy
+// module chunks = 0

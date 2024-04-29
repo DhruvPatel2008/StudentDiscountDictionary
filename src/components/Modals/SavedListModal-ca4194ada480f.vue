@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('Modal',{attrs:{"show":_vm.show,"inverted":false,"closeButton":false,"containerPadding":'32px 25px'},on:{"close":function($event){return _vm.$emit('close')}}},[_c('div',{staticClass:"list-container"},[_c('div',[_c('span',{class:("choose-list " + (_vm.language == 'fr' ? 'choose-list-fr' : ''))},[_vm._v(_vm._s(_vm.$t('choose_list')))]),_vm._v(" "),_c('span',{class:("create-list " + (_vm.language == 'fr' ? 'create-list-fr' : '')),on:{"click":_vm.showCreateListModal}},[_vm._v(_vm._s(_vm.$t('create_list')))])]),_vm._v(" "),_c('div',{staticClass:"saved-lists"},_vm._l((_vm.savedList),function(list){return _c('div',{key:list.id,staticClass:"list"},[_c('div',{class:("list-details " + (_vm.language == 'fr' ? 'list-details-fr' : ''))},[(_vm.$t(list.name).length > 45)?_c('span',{staticClass:"list-name",attrs:{"title":_vm.$t(list.name)}},[_vm._v("\n            "+_vm._s((_vm.$t(list.name)).slice(0,40).concat('...'))+"\n          ")]):_c('span',{staticClass:"list-name"},[_vm._v("\n            "+_vm._s(_vm.$t(list.name))+"\n          ")]),_vm._v(" "),_c('span',{staticClass:"list-items"},[_vm._v(_vm._s(list.offer_ids ? list.offer_ids.length : 0)+" "+_vm._s(_vm.$t('items')))])]),_vm._v(" "),_c('div',{class:("save " + (_vm.language == 'fr' ? 'save-fr' : '')),on:{"click":function($event){return _vm.updateList(list)}}},[_vm._v("\n          "+_vm._s(_vm.$t('save'))+"\n          "),_c('img',{attrs:{"src":require('@/assets/images/qrlanding/arrow.png'),"alt":"Arrow"}})])])}),0)])])}
+var staticRenderFns = []
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-24ca3a84","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/components/Modals/SavedListModal.vue
+// module id = null
+// module chunks = 

@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAYAgMAAABy275VAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURQAAAEdwTAAAAAAAAKDh18UAAAAEdFJOUx4APwkiV9SuAAAAZUlEQVQI133OsQ3AMAgEQOr0WcJTULtEsEx6D0Jn/RRZyn0ep05ccAiJxxL7qXy6yFLxjPBUsRlhU+XCGR03HdGoIR2cs7DlXsOBQTuAkxowK8+B3PmNm2VnUlnJZV3a99fvv14fPGdBzwKpzt0AAAAASUVORK5CYII="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/drop-icon.png
+// module id = 0zHb
+// module chunks = 57

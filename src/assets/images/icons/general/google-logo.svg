@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMiIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIyIDE0Ij4KICAgIDxnIGZpbGw9IiNGRkYiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZD0iTTcgNnYyLjRoMy45N2MtLjE2IDEuMDMtMS4yIDMuMDItMy45NyAzLjAyLTIuMzkgMC00LjM0LTEuOTgtNC4zNC00LjQyUzQuNjEgMi41OCA3IDIuNThjMS4zNiAwIDIuMjcuNTggMi43OSAxLjA4bDEuOS0xLjgzQzEwLjQ3LjY5IDguODkgMCA3IDAgMy4xMyAwIDAgMy4xMyAwIDdzMy4xMyA3IDcgN2M0LjA0IDAgNi43Mi0yLjg0IDYuNzItNi44NCAwLS40Ni0uMDUtLjgxLS4xMS0xLjE2SDd6TTIyIDZoLTJWNGgtMnYyaC0ydjJoMnYyaDJWOGgyIi8+CiAgICA8L2c+Cjwvc3ZnPgo="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/google-logo.svg
+// module id = HvdE
+// module chunks = 57

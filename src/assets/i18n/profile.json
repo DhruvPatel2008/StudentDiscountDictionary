@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"labels":{"name":"Name","firstName":"First Name","lastName":"Last Name","email":"Email Address","password":"Password","gender":"Gender","language":"Language","postalCode":"Postal Code","success_postal":"Valid Postal Code","zipCode":"Zip Code","birthday":"Birthday","schoolType":"School Type","schoolName":"School","emailOptIn":"Yes! Send me special deals, updates, giveaways and marketing communications from SPC. I can unsubscribe at any time.","cardNumber":"Membership Number","csv":"CSV","international":"Are you an International Student?","province":"Province"}},"fr":{"labels":{"name":"Nom","firstName":"Prénom","lastName":"Nom","email":"Adresse courriel","password":"Mot de Passe","gender":"Genre","language":"Langue","postalCode":"Code postal","success_postal":"Code postal valide","zipCode":"Code postal","birthday":"Anniversaire","schoolType":"Type d\u0027École","schoolName":"School","emailOptIn":"Oui! Envoyez-moi des offres spéciales, des mises à jour, des cadeaux et des communications marketing de SPC. Je peux me désinscrire à tout moment.","cardNumber":"Numéro d’adhésion","csv":"CSV","international":"Êtes-vous un étudiant international?","province":"Province"}}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/i18n/profile.json
+// module id = cWph
+// module chunks = 57

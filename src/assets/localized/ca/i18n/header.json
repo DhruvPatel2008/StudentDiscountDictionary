@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"greeting":"Hello, {name}","greeting_anonymous":"Hello","menu":{"why":"Why SPC","deals":"Deals","buy":"Buy SPC","banking":"Banking","cibc":"ABOUT SPC+","login":"LOG IN","logout":"Log Out","profile":"Profile","billing":"Manage Billing","favourites":"Favourites","register":"Register SPC","signup":"Create Account","activate":"Activate","purchase":"BUY NOW","how_it_works":"HOW IT WORKS","saved":"SAVED"}},"fr":{"greeting":"Bonjour, {name}","greeting_anonymous":"Bonjour","menu":{"why":"Pourquoi SPC","deals":"Offres","buy":"Achetez SPC","banking":"Services Bancaires pour Étudiants","cibc":"À PROPOS DE SPC+","signup":"Créer un Compte","login":"Connexion","logout":"Déconnexion","profile":"Profil","billing":"Renseignements de paiement","favourites":"Favoris","register":"Enregistrez SPC","activate":"Activer","purchase":"Acheter maintenant","how_it_works":"COMMENT ÇA FONCTIONNE","saved":"ENREGISTEMENTS"}}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/localized/ca/i18n/header.json
+// module id = 94qC
+// module chunks = 57

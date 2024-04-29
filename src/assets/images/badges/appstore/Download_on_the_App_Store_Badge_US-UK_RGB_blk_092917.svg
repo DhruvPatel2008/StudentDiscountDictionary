@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/img/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.2928664.svg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/badges/appstore/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg
+// module id = mb+q
+// module chunks = 57

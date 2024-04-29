@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTUgLTUpIj4KICAgICAgICA8cGF0aCBkPSJNMCAwaDQ4djQ4SDB6Ii8+CiAgICAgICAgPGNpcmNsZSBjeD0iMjIuNzc5IiBjeT0iMjIuNzc3IiByPSIxNi4xMTIiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiIHRyYW5zZm9ybT0icm90YXRlKC0yMy4wMjUgMjIuNzc5IDIyLjc3NykiLz4KICAgICAgICA8cGF0aCBzdHJva2U9IiMwMDAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzIiBkPSJNMzQuMTcgMzQuMTY5bDEyLjQ5NyAxMi40OTgiLz4KICAgIDwvZz4KPC9zdmc+Cg=="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/search-icon-inactive.svg
+// module id = AnqH
+// module chunks = 57

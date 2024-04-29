@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYBAMAAAASWSDLAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAtUExURUdwTP///////////////////////////////////////////////////////81e3QIAAAAOdFJOUwCnrGkN30TMecK3GZH2Gu6OZQAAAJhJREFUGNNjYMAGLJA57wSQOY+AROq7d4/BnHdLGBji3r1rYNhmcfDdu5cODO8CxRjM34FBCcM7BYbtEPa7lyBT6pA4zFA2SJkAF5C+vghigADru7diUKPfCfCCLQJbCpIJgDnnnQAjmLaAOJANaBXCtetAyjISIJytT0C0AoTDfQSJA1EO5sAASHAejGMA5OxRggBh9BACALVFaliw5cYPAAAAAElFTkSuQmCC"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/share-square.png
+// module id = DD6f
+// module chunks = 57

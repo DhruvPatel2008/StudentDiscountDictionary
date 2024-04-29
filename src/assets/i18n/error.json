@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"email_capture":{"already_sub":"This email address has already subscribed","already_member":"Your email has already been opted in. Please keep an eye on your inbox for special discounts, updates, and giveaways from SPC!","default":"Ooops! something wrong happened!"},"error_msg":"Oops! Something went wrong. Please try again."},"fr":{"email_capture":{"already_sub":"Cette adresse e-mail est déjà abonnée","already_member":"Votre email est déjà enregistrée. Veuillez vérifier votre boîte de réception pour des remises spéciales, des mises à jour et des cadeaux de SPC!","default":"Oups! Quelque chose s\u0027est mal passé!"},"error_msg":"Oops! Un problème est survenu! Veuillez réessayer."}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/i18n/error.json
+// module id = Oa0d
+// module chunks = 57

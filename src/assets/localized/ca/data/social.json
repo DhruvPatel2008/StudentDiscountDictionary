@@ -1,0 +1,8 @@
+module.exports = {"facebook":{"name":"Facebook","link":"https://www.facebook.com/SPCCard/","icon":"facebook.svg"},"twitter":{"name":"Twitter","link":"https://twitter.com/SPC_Card","icon":"twitter.svg"},"instagram":{"name":"Instagram","link":"https://www.instagram.com/spccard","icon":"instagram.svg"},"snapchat":{"name":"Snapchat","link":"https://www.snapchat.com/add/spc_card","icon":"snapchat.svg"},"linkedin":{"name":"LinkedIn","link":"https://www.linkedin.com/company/spc-card-student-price-card/","icon":"linkedin.svg"},"tiktok":{"name":"TikTok","link":"https://www.tiktok.com/@spccard","icon":"tiktok.svg"}}
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/localized/ca/data/social.json
+// module id = 5ykm
+// module chunks = 57

@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsBAMAAADsqkcyAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAhUExURUdwTAAAACYmJunp6QAAAAAAAAAAAAAAAAAAAMzMzP///8LtEWAAAAAKdFJOUwCAiuodWnNCAdQvBM8TAAAA90lEQVQoz3WTPQ+CMBCGO2BgvUYxjoTJlZGpLrrKgDuJRkdNjLMDcde/wB/1vH7QYu8W0oc399G+J4SObNd2eXt/iiD6B1CclU+TBkwsVIwGfAteHC1NIYirwbcQL6NiK99M8Zza6KY4/zUzg7/Yx3LoLI0PZEEjYWp9/GhcVvRRJvVqIJmsK9PiC7xzqf/CxVYkYMVY00xOxIpxftsIIifGVixG5sSI3ejl4MSQj1jWTowYYhi4JExJpkFmHGZ45qpS8M6yfpuLTfzrh3VhniFrxsdyPuSfmDEEYx/GbJw1GSNztmeWRPTxlWIWEPlB05MK13iy3F+UgVolxhScqAAAAABJRU5ErkJggg=="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/exit-icon-popup.png
+// module id = 9gKc
+// module chunks = 57

@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGc+CiAgICAgICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00NjMgLTQyNykgdHJhbnNsYXRlKDQ2MyA0MjcpIj4KICAgICAgICAgICAgICAgIDxjaXJjbGUgY3g9IjkiIGN5PSI4Ljk5OSIgcj0iOC40MzgiIGZpbGw9IiMwMENEQjciLz4KICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIuNSIgZD0iTTUuMjUgOS44NjhsMS41MzEgMi4xNzNjLjExOC4xNzYuMzE0LjI4NC41MjUuMjkuMjEyLjAwNy40MTQtLjA5LjU0Mi0uMjU4TDEyLjc1IDUuODciLz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg=="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/check-icon-green.svg
+// module id = 8RQE
+// module chunks = 57

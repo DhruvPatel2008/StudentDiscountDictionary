@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"genders":{"female":"Female","male":"Male","non_binary":"Non-Binary","none":"Prefer not to say"},"languages":{"en":"English","fr":"French"},"school_types":{"university":"University","college":"College","cegep":"CÉGEP","secondary":"High School","elementary":"Elementary School","other":"Other"},"school_names":{}},"fr":{"genders":{"female":"Femelle","male":"Mâle","non_binary":"Non-binaire","none":"Ne préfère ne pas répondre"},"languages":{"en":"Anglais","fr":"Français"},"school_types":{"university":"Université","college":"Collège","cegep":"CÉGEP","secondary":"École secondaire","elementary":"École élémentaire","other":"Autre"},"school_names":{}}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/localized/ca/i18n/profile.json
+// module id = 59hP
+// module chunks = 57

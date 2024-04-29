@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlPSIjMzI2NEU2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMyI+CiAgICAgICAgPHBhdGggZD0iTTE1IDI0aDE4Ii8+CiAgICAgICAgPGNpcmNsZSBjeD0iMjQiIGN5PSIyNCIgcj0iMjIuNSIvPgogICAgPC9nPgo8L3N2Zz4K"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/controller-remove-default.svg
+// module id = idAp
+// module chunks = 57

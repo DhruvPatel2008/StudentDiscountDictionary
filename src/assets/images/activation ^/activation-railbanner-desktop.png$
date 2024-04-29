@@ -1,0 +1,26 @@
+var map = {
+	"./en/activation-railbanner-desktop.png": "hItH",
+	"./fr/activation-railbanner-desktop.png": "s8Qe"
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = "UE5b";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/activation ^\.\/.*\/activation\-railbanner\-desktop\.png$
+// module id = UE5b
+// module chunks = 0

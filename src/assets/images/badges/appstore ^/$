@@ -1,0 +1,26 @@
+var map = {
+	"./Download_on_the_App_Store_Badge_FRCA_RGB_blk_100517.svg": "/3d2",
+	"./Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg": "mb+q"
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = "q0zz";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/badges/appstore ^\.\/.*$
+// module id = q0zz
+// module chunks = 57

@@ -1,0 +1,26 @@
+var map = {
+	"./playstore-en.svg": "Ermy",
+	"./playstore-fr.svg": "U/Rb"
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = "w3Kg";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/badges/playstore ^\.\/.*$
+// module id = w3Kg
+// module chunks = 57

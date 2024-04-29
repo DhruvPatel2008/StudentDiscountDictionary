@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"links":{"about":"About","business":"For Business","faq":"FAQ","fundraising":"Fundraising","contact":"Contact Us","careers":"Careers","tos":"Terms of Use","privacy":"Privacy Policy","gift_SPC":"GIFT SPC","in_store":"Buy in-Store","cibc":"Free SPC with CIBC","extension":"SPC Browser Extension","brands":"All Brands"},"copyright":"© {year} Student Price Card Ltd. All Rights Reserved.","app_store":"**App Store is a trademark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC. CIBC logo design is a trademark of CIBC, used under license.","get_app":"Get the SPC app now"},"fr":{"links":{"about":"À Propos","business":"Pour le Business","faq":"FAQ","fundraising":"Collecte de Fonds","contact":"Contactez Nous","careers":"Carrières","tos":"Conditions d\u0027Utilisation","privacy":"Politique de Confidentialité","gift_SPC":"DONNEZ SPC","in_store":"ACHETEZ SPC EN MAGASIN","cibc":"SPC GRATUIT AVEC CIBC","extension":"Extension navigateur SPC","brands":"Toutes les marques"},"copyright":"© 2022 Student Price Card Ltd. Tous les droits sont réservés.","app_store":"** App Store est une marque de service de Apple Inc. Google Play et le logo Google Play sont des marques déposées de Google LLC. Le logo CIBC est une marque de commerce/marque déposée de CIBC.","get_app":"OBTENEZ L\u0027APPLICATION MAINTENANT"}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/localized/ca/i18n/footer.json
+// module id = TZak
+// module chunks = 57

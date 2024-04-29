@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSIzMSIgdmlld0JveD0iMCAwIDI4IDMxIj4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEwIC05KSI+CiAgICAgICAgPHJlY3Qgd2lkdGg9IjQ1IiBoZWlnaHQ9IjQ1IiB4PSIxLjUiIHk9IjEuNSIgcng9IjEuNSIvPgogICAgICAgIDxwYXRoIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMiIGQ9Ik0zMS41IDIyLjUzdi0xMk0zMS41IDM3LjUzdi02TTM2IDI3LjAzYTQuNSA0LjUgMCAxIDEtOSAwIDQuNSA0LjUgMCAwIDEgOSAwek0xNi41IDE5LjUzdjE4TTIxIDE1LjAzYTQuNSA0LjUgMCAxIDAtOSAwIDQuNSA0LjUgMCAwIDAgOSAweiIvPgogICAgPC9nPgo8L3N2Zz4K"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/filter-icon-active.svg
+// module id = gjMc
+// module chunks = 57

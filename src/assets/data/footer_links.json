@@ -1,0 +1,8 @@
+module.exports = {"about":"/about","business":"/business","faq":"/faq-help","samples":"/freesamples?utm_source=spc-website&utm_medium=website&utm_campaign=spc-footer","fundraising":"/fundraising","contact":"/contact-us","careers":"/careers","blog":"http://blog.spccard.ca/","tos":"/terms-of-use","privacy":"/privacy-policy","in_store":"/purchase/instore","cibc":"/cibc","extension":"https://chrome.google.com/webstore/detail/spc-student-deals/lbmedplpeggindlnaomcjahdlpmalcpm"}
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/data/footer_links.json
+// module id = FZNR
+// module chunks = 57

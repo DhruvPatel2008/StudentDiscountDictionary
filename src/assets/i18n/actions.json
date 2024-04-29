@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"actions":{"next":"Next","submit":"Submit","reload":"Reload","save":"Save Changes","or":"or","join_SPC":"JOIN SPC","join_now":"JOIN NOW","see_all":"SEE ALL","all_deals":"ALL DEALS","joinSPC":"JOIN SPC","join_SPC_plus":"JOIN SPC+","view_all_deals":"View All Deals","all_brands":"All Brands"}},"fr":{"actions":{"next":"Prochaine étape","submit":"Soumettre","reload":"Recharger","save":"Sauvegarder les modifications","or":"ou","join_SPC":"REJOIGNEZ SPC","join_now":"REJOIGNEZ MAINTENANT","see_all":"VOYEZ TOUT","all_deals":"VOYEZ TOUT","joinSPC":"REJOIGNEZ SPC","join_SPC_plus":"REJOIGNEZ SPC+","view_all_deals":"Toutes les marques","all_brands":"Voir toutes les offres"}}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/i18n/actions.json
+// module id = YswM
+// module chunks = 57

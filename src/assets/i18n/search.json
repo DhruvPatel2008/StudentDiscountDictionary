@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"search":{"input":{"placeholder":"Search..."},"results":{"title":"Results for \\"{query}\\"","empty":{"title":"No results found","description":"Looks like we don\u0027t have any matches for what you\u0027re looking for. Try searching a different word or browsing our categories."}}}},"fr":{"search":{"input":{"placeholder":"Cherche..."},"results":{"title":"Résultats pour \\"{query}\\"","empty":{"title":"Aucun résultat disponible","description":"Il parait que nous n’avons pas été capables de trouver des résultats correspondants à votre recherche. Essayez de chercher quelque chose de différent ou consultez nos catégories pour plus d’offres."}}}}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/i18n/search.json
+// module id = 4KcO
+// module chunks = 57

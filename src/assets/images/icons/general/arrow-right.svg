@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNSAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xNS4yNCA1LjM1YTEgMSAwIDAgMCAuMDE5IDEuMzIxbC4wOS4wODhMMjAuMyAxMUguOTIzQy40MTMgMTEgMCAxMS40NDggMCAxMmMwIC41MTMuMzU2LjkzNi44MTUuOTkzTC45MjMgMTNoMTkuMzc0bC00Ljk0OCA0LjI0MWExIDEgMCAwIDAtLjE4NCAxLjMxbC4wNzYuMWExIDEgMCAwIDAgMS4zMDkuMTg0bC4xLS4wNzYgNi44NDctNS44NjhjLjI5OC0uMTY1LjUwMy0uNTAyLjUwMy0uODkxcy0uMjA1LS43MjYtLjUwMy0uODkxTDE2LjY1IDUuMjQxYTEgMSAwIDAgMC0xLjQxLjEwOHoiIGZpbGw9IiMwMDAiIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/arrow-right.svg
+// module id = N4nb
+// module chunks = 57

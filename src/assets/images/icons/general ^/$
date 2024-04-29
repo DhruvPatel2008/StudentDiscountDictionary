@@ -1,0 +1,113 @@
+var map = {
+	"./SPC_UI_ArrowLeft_Black.svg": "jSiU",
+	"./SPC_UI_ArrowLeft_Grey.svg": "9Hda",
+	"./SPC_UI_ArrowLeft_White.svg": "S0yh",
+	"./SPC_UI_ArrowRight_Black.svg": "4+N5",
+	"./SPC_UI_ArrowRight_Grey.svg": "DXbU",
+	"./SPC_UI_ArrowRight_White.svg": "Q244",
+	"./alternate1-login.png": "tioS",
+	"./alternate2-login.png": "QADo",
+	"./alternate3-login.png": "mBRW",
+	"./arrow-icon-black.svg": "hDVz",
+	"./arrow-icon-white.svg": "qzXS",
+	"./arrow-next.png": "SDPP",
+	"./arrow-prev.png": "WB0P",
+	"./arrow-right.svg": "N4nb",
+	"./black-left-arrow.svg": "3jAu",
+	"./black-right-arrow.svg": "EaHo",
+	"./bookmark-after.png": "4U1e",
+	"./bookmark-before.png": "DbDO",
+	"./bookmark-filled.png": "fnzg",
+	"./bookmark.png": "Xra+",
+	"./category-check-default.svg": "eOLL",
+	"./check-icon-copy-white.svg": "Ag6F",
+	"./check-icon-copy.svg": "GVxI",
+	"./check-icon-green.svg": "8RQE",
+	"./clock.png": "MwXa",
+	"./close-icon-black.svg": "rby7",
+	"./close-icon-white.svg": "qofN",
+	"./controller-add-default.svg": "K5z6",
+	"./controller-add-tap.svg": "QLYc",
+	"./controller-remove-default.svg": "idAp",
+	"./controller-remove-tap.svg": "LMKp",
+	"./drop-icon.png": "0zHb",
+	"./dropdown-arrow-default.svg": "9g+G",
+	"./email.png": "btHK",
+	"./exit-icon-popup.png": "9gKc",
+	"./eye-outline.png": "blLH",
+	"./eye-solid.png": "0x/V",
+	"./facebook-icon.svg": "CWzR",
+	"./facebook.png": "nFNH",
+	"./facebook.svg": "bn/6",
+	"./filter-icon-active.svg": "gjMc",
+	"./filter-icon-inactive.svg": "3Tuy",
+	"./gift.svg": "Rkn6",
+	"./google-logo.svg": "HvdE",
+	"./icon-brand-apple.png": "jQrw",
+	"./icon-brand-facebook.png": "XoYs",
+	"./icon-brand-google.png": "Fqm7",
+	"./icon-linear-trash-alt.png": "qDc1",
+	"./icon-solid-angle-left.svg": "rpUq",
+	"./icon-solid-angle-right.svg": "Kx6+",
+	"./icon-solid-pencil-alt.png": "8Yf9",
+	"./icon.svg": "VnB6",
+	"./img/1.png": "RCES",
+	"./img/2.png": "KfWe",
+	"./img/3.png": "Ythl",
+	"./img/4.png": "XCKF",
+	"./img/location.png": "i1t6",
+	"./information-circle-default.svg": "NbyV",
+	"./information-circle-hover.svg": "5/ap",
+	"./instagram.svg": "+x8G",
+	"./linkedin.svg": "MbcZ",
+	"./list-icon-inactive.svg": "wCFk",
+	"./minus.svg": "oIDe",
+	"./plus.svg": "vDOh",
+	"./question-circle.svg": "NYgE",
+	"./reddit.png": "X3I4",
+	"./search-icon-inactive.svg": "AnqH",
+	"./search-icon.svg": "d7Ka",
+	"./select-caret.png": "uAR3",
+	"./share-square.png": "DD6f",
+	"./signup-step-1-black.png": "5/zc",
+	"./signup-step-2-black.png": "MWZx",
+	"./signup-step-2-grey.png": "Bkxl",
+	"./signup-step-3-black.png": "LiHP",
+	"./signup-step-3-grey.png": "I2sK",
+	"./signup-step-4-black.png": "B4WI",
+	"./signup-step-4-grey.png": "7nfe",
+	"./slider-arrow-left.png": "7cWw",
+	"./slider-arrow-right.png": "ypkr",
+	"./snapchat.svg": "JFVN",
+	"./step2-grey.svg": "mPjD",
+	"./tiktok.svg": "Oye7",
+	"./twitter.png": "x9Sd",
+	"./twitter.svg": "l2HA",
+	"./whats-app.png": "m1IH",
+	"./whatsapp.png": "dZ3t",
+	"./whatsapp.svg": "ofzz",
+	"./whatsapp.webp": "MCkF",
+	"./white-trash-alt.png": "n/vW"
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = "g5Fz";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general ^\.\/.*$
+// module id = g5Fz
+// module chunks = 57

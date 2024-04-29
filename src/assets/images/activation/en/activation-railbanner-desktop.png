@@ -1,0 +1,8 @@
+module.exports = __webpack_public_path__ + "static/img/activation-railbanner-desktop.62f501d.png";
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/activation/en/activation-railbanner-desktop.png
+// module id = hItH
+// module chunks = 0

@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAtBAMAAADSCB8nAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAVUExURUdwTAAAAAAAAAAAAAAAAAAAAAAAAO0EbHoAAAAHdFJOUwBNPgwlMhkF+DIPAAAA4ElEQVQoz6WSuw6CQBBFV1D6i2ANJPa76gdAJNagkRoS/v8bnJXXzG5h4YQQOJm581TqHwvf2iEGJ4fkiCWIAMiwgMit42QA0hylkMGRHpabgmogETJxIIihvx14SSSTGa5jq+kpXSZkVAU0K6lsQIutHpu7sVo9D9KKd9bavNZxAQf6fo1PehedXlxWS/U8iM2aqV5JQgFsOkaSsb6vwucHa2tfFN31O9dMbkM0ulRVuivcGp3MW2HokYi1PtcA9xRoJKlyTyH5RQzcIxs8n8pTHrzsF88nzPmFTWic2/oAFgcfei2RYO8AAAAASUVORK5CYII="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/signup-step-4-grey.png
+// module id = 7nfe
+// module chunks = 57

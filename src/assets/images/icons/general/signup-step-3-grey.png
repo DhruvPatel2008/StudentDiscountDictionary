@@ -1,0 +1,8 @@
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAmBAMAAAA7C9bfAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAVUExURQAAAEdwTAAAAAAAAAAAAAAAAAAAAKRKkeEAAAAHdFJOU0wAOxoLKDKmRdvyAAAAqElEQVQY02WQPQ7CMAyFn9KfuWmqzmlVdirUncAFgpDYQSr3PwKO7UQIPH2y/exnw+bAF522x2veg0UPjsniWOgstFq4+X2PMKJ1qchErYGJUrVMpq7ANAKL7EgDDyETWq1SVElx3TyhuroAT/UXUSv1qJQcmkLtX24sfV3RRkxCAx0CHWd0myfXECVuTIMXf+xkyrcZvsPxVxJ1QGMzrULOL/m7w++fPxMaGB5isQf3AAAAAElFTkSuQmCC"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/signup-step-3-grey.png
+// module id = I2sK
+// module chunks = 57

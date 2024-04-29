@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pjxzdmcgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDpub25lO308L3N0eWxlPjwvZGVmcz48dGl0bGUvPjxnIGRhdGEtbmFtZT0iTGF5ZXIgMiIgaWQ9IkxheWVyXzIiPjxwYXRoIGQ9Ik0xMiwyNWExLDEsMCwwLDEtLjcxLS4yOSwxLDEsMCwwLDEsMC0xLjQyTDE4LjU5LDE2bC03LjMtNy4yOWExLDEsMCwxLDEsMS40Mi0xLjQybDgsOGExLDEsMCwwLDEsMCwxLjQybC04LDhBMSwxLDAsMCwxLDEyLDI1WiIvPjwvZz48ZyBpZD0iZnJhbWUiPjxyZWN0IGNsYXNzPSJjbHMtMSIgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIi8+PC9nPjwvc3ZnPg=="
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/black-right-arrow.svg
+// module id = EaHo
+// module chunks = 57

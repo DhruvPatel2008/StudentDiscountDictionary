@@ -1,0 +1,11 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('transition',{attrs:{"name":"modal"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.show),expression:"show"}],staticClass:"modal-mask",class:{ fullscreenSettings: _vm.fullscreenSettings},on:{"click":_vm.checkCloseModal,"keyup":function($event){if(!$event.type.indexOf('key')&&_vm._k($event.keyCode,"esc",27,$event.key,["Esc","Escape"])){ return null; }return _vm.checkCloseModal($event)}}},[_c('div',{ref:"modal",staticClass:"modal-container",class:{ inverted: _vm.inverted, fullscreen: _vm.fullscreen, contained: _vm.contained, fullscreenSettings: _vm.fullscreenSettings, 'activateCompletedMobile': _vm.newMobileDesign },style:(("width: " + _vm.optimumWidth + ";" + _vm.backgroundStyle + ", height: " + _vm.optimumHeight)),on:{"click":function($event){$event.stopPropagation();}}},[_c('div',{staticClass:"modal-container-inner",style:(("padding: " + _vm.containerPadding))},[_vm._t("default"),_vm._v(" "),(_vm.closeButton)?_c('div',{staticClass:"modal-close",on:{"click":_vm.close}},[(_vm.isHomepagePopup && _vm.mobileScreen)?_c('img',{ref:"close",staticClass:"modal-close-icon homepage-close",attrs:{"src":require('@/assets/images/icons/general/exit-icon-popup.png'),"alt":_vm.$t('close'),"tabindex":"0"}}):_c('img',{ref:"close",staticClass:"modal-close-icon",attrs:{"src":require('@/assets/images/icons/general/close-icon-black.svg'),"alt":_vm.$t('close'),"tabindex":"0"}})]):_vm._e()],2)])])])}
+var staticRenderFns = []
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+export default esExports
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/vue-loader/lib/template-compiler?{"id":"data-v-f2ee02b4","hasScoped":true,"transformToRequire":{"video":["src","poster"],"source":"src","img":"src","image":"xlink:href"},"buble":{"transforms":{}}}!./node_modules/vue-loader/lib/selector.js?type=template&index=0!./src/components/Modals/Modal.vue
+// module id = null
+// module chunks = 

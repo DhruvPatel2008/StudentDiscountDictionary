@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"en":{"time":{"hours":"hour | hours","days":"day | days","weeks":"week | weeks","months":"month | months","years":"year | years"}},"fr":{"time":{"hours":"heure | heures","days":"jour | jours","weeks":"semaine | semaines","months":"mois | mois","years":"année | années"}}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/i18n/time.json
+// module id = F57Z
+// module chunks = 0

@@ -1,0 +1,12 @@
+module.exports = function (Component) {
+  Component.options.__i18n = Component.options.__i18n || []
+  Component.options.__i18n.push('{"fr":{"code":"en_CA","title_short":"en","title_medium":"English","title_long":"Canadian (English)"},"en":{"code":"fr_CA","title_short":"fr","title_medium":"Français","title_long":"Canadien (Français)"}}')
+}
+
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./node_modules/@kazupon/vue-i18n-loader/lib!./src/assets/localized/ca/i18n/language.json
+// module id = Ghgg
+// module chunks = 57

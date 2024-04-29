@@ -1,0 +1,8 @@
+module.exports = {"distances":["10","20","50","100"]}
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/localized/ca/data/offer.json
+// module id = X74A
+// module chunks = 0

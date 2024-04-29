@@ -1,0 +1,8 @@
+module.exports = "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTMiIHZpZXdCb3g9IjAgMCAxMCAxMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDx0ZXh0IHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMzguNSAtNykiIGZpbGw9IiMwMDAiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZm9udC1mYW1pbHk9Ik1hcnlkYWxlLUJsYWNrLCBNYXJ5ZGFsZSIgZm9udC1zaXplPSIxOCIgZm9udC13ZWlnaHQ9IjgwMCIgb3BhY2l0eT0iLjMwMyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0c3BhbiB4PSIxMzguNjk0IiB5PSIxOSI+MjwvdHNwYW4+CiAgICAgICAgICAgICAgICAgICAgPC90ZXh0Pgo8L3N2Zz4K"
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/assets/images/icons/general/step2-grey.svg
+// module id = mPjD
+// module chunks = 57
